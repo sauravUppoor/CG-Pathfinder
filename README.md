@@ -2,9 +2,9 @@
   <strong>CG-Pathfinder</strong>
   <br>
 </h1>
-<h4 align="center">
-  Computer Graphics, Semester 4
-</h4>
+<p align="center">
+  <strong>Computer Graphics, Semester 4</strong>
+</p>
 CG-Pathfinder (Dijkstra’s Visualiser), is a visual representation of how Dijkstra’s renown shortest path algorithm works behind the scene. The input for the project is a weighted undirected graph. We also input the source node where we’d like the algorithm to find the shortest path to all the other nodes and in the end display the path to the destination node. This algorithm has various applications like shortest path finding, cycle detection in a graph etc.
 
 ## Contributors
