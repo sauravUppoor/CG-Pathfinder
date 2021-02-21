@@ -17,15 +17,15 @@ CG-Pathfinder (Dijkstra’s Visualiser), is a visual representation of how Dijks
 
 ## Screenshots
 <p align="center">
-  <img width=600 src="https://github.com/sauravUppoor/CG-Pathfinder/blob/main/Screenshots/intro%20page.png"></img><br>
+  <img width=600 src="https://github.com/sauravUppoor/CG-Pathfinder/blob/main/doc/Screenshots/intro%20page.png"></img><br>
   The intro page<br><br>
-  <img width=600 src="https://github.com/sauravUppoor/CG-Pathfinder/blob/main/Screenshots/Taking%20input.png"></img><br>
+  <img width=600 src="https://github.com/sauravUppoor/CG-Pathfinder/blob/main/doc/Screenshots/Taking%20input.png"></img><br>
   Entering the graph inputs<br><br>
-  <img width=600 src="https://github.com/sauravUppoor/CG-Pathfinder/blob/main/Screenshots/entered%20graph%20with%20source.png"></img><br>
+  <img width=600 src="https://github.com/sauravUppoor/CG-Pathfinder/blob/main/doc/Screenshots/entered%20graph%20with%20source.png"></img><br>
   Displaying the entered graph<br><br>
-  <img width=600 src="https://github.com/sauravUppoor/CG-Pathfinder/blob/main/Screenshots/edge%20getting%20relaxed%202.png"></img><br>
+  <img width=600 src="https://github.com/sauravUppoor/CG-Pathfinder/blob/main/doc/Screenshots/edge%20getting%20relaxed%202.png"></img><br>
   Graph getting processed<br><br>
-  <img width=600 src="https://github.com/sauravUppoor/CG-Pathfinder/blob/main/Screenshots/final%20result.png"></img><br>
+  <img width=600 src="https://github.com/sauravUppoor/CG-Pathfinder/blob/main/doc/Screenshots/final%20result.png"></img><br>
   Output with the shortest path<br><br>
 </p>
 
